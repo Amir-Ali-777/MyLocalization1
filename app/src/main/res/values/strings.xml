@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyLocalization1</string>
+
+    <string-array name="array_technology">
+        <item>Apple</item>
+        <item>Ball</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Elephant</item>
+        <item>Fox</item>
+        <item>Giraffe</item>
+        <item>Hyena</item>
+        <item>Island</item>
+        <item>Jam</item>
+        <item>Kite</item>
+        <item>Lemon</item>
+    </string-array>
+
+</resources>

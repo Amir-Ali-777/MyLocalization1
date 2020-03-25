@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_technology">
+        <item>manzana</item>
+        <item>Pelota</item>
+        <item>Gato</item>
+        <item>Perro</item>
+        <item>Elefante</item>
+        <item>zorro</item>
+        <item>Jirafa</item>
+        <item>Hiena</item>
+        <item>Isla</item>
+        <item>Mermelada</item>
+        <item>Cometa</item>
+        <item>Limón</item>
+    </string-array>
+
+</resources>

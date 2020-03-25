@@ -1,0 +1,2 @@
+rootProject.name='MyLacalization1'
+include ':app'

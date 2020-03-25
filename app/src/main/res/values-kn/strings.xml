@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_technology">
+        <item>ಆಪಲ್</item>
+        <item>ಚೆಂಡು</item>
+        <item>ಬೆಕ್ಕು</item>
+        <item>ನಾಯಿ</item>
+        <item>ಆನೆ</item>
+        <item>ನರಿ</item>
+        <item>ಜಿರಾಫೆ</item>
+        <item>ಹೈನಾ</item>
+        <item>ದ್ವೀಪ</item>
+        <item>ಜಾಮ್</item>
+        <item>ಗಾಳಿಪಟ</item>
+        <item>ನಿಂಬೆ</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_technology">
+        <item>सेब</item>
+        <item>गेंद</item>
+        <item>बिल्ली</item>
+        <item>कुत्ता</item>
+        <item>हाथी</item>
+        <item>लोमड़ी</item>
+        <item>जिराफ़</item>
+        <item>लकड़बग्धा</item>
+        <item>द्वीप</item>
+        <item>जाम</item>
+        <item>पतंग</item>
+        <item>नींबू</item>
+    </string-array>
+
+</resources>
